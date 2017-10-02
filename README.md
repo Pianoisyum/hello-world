@@ -12,3 +12,5 @@ adjective
 severe or strict in manner or attitude.
 (of living conditions or a way of life) having no comforts or luxuries.
 having a plain and unadorned appearance.
+
+define
