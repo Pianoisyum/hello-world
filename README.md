@@ -18,3 +18,8 @@ helm
 noun
 a tiller or wheel for steering a ship or boat.
 "she stayed at the helm, alert for tankers"
+
+bowsprit
+/ˈbəʊsprɪt/
+noun
+a spar running out from a ship's bow, to which the forestays are fastened.
