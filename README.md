@@ -7,10 +7,14 @@ Test :)
 en.wikipedia.org/wiki/North_Atlantic_right_whale
 
 austere
-ɒˈstɪə,ɔːˈstɪə/Submit
+ɒˈstɪə,ɔːˈstɪə
 adjective
 severe or strict in manner or attitude.
 (of living conditions or a way of life) having no comforts or luxuries.
 having a plain and unadorned appearance.
 
-define
+helm
+/hɛlm/
+noun
+a tiller or wheel for steering a ship or boat.
+"she stayed at the helm, alert for tankers"
